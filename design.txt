@@ -1,0 +1,23 @@
+Titllte:Math Painting
+Description:
+          An app that lets the users providethe start coordinates of geomatrical shapes such as square ,rectangular
+their deimenstions and their colour  and the programproduce the image file canvas  with the geometrical shapes
+drawn on it.
+Objects:Saquare:
+          x
+          y
+          side
+          colour
+          drawn(Canvas)
+        Rectangular:
+          x
+          y
+          height
+          weidth
+          colour
+          drawn(canvas)
+        Canvas:
+          width
+          height
+          colour
+          make(imagepath)
